@@ -18,5 +18,8 @@
   "homepage": "https://github.com/jatin1211/RPG#readme",
   "devDependencies": {
     "jest": "^29.0.1"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
   }
 }
